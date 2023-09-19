@@ -3,6 +3,7 @@
 
 ## Skills / Languages
 
+- `{{ Next js }}` good
 - `{{ React js }}` good
 - `JavaScript` great
 - `<HTML>` + `{CSS}` great
