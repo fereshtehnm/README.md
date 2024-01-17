@@ -3,12 +3,17 @@
 
 ## Skills / Languages
 
-- `{{ Next js }}` good
-- `{{ React js }}` good
+- `{{ Nextjs 13}}` good
+- `{{ Reactjs }}` good
+- `{{ Redux-toolkit }}` good
 - `JavaScript` great
-- `<HTML>` + `{CSS}` great
+- `TailwindCSS` great
+- `Bootstrap` good
+- `NextUI Lib` great
+- `MUI Lib` great
+- `<HTML5>` + `{CSS3}` great
 - `Git` great
-- `python` great
+- `python` good
 - `wordpress` good
 - `Java` good
 
@@ -22,3 +27,6 @@
 - gilanianasnaf.ir
 - irsmartcity.ir
 - lepsicur.com
+- safiresimorgh.com
+- mahyadokht.ir
+- HTML5 course by me: https://asnafbns.com/course/index.php?categoryid=37
