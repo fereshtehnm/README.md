@@ -56,6 +56,7 @@
 
 ## Projects
 -  https://spadpost.ir
+-  https://bazaarmaj.com
 -  https://shahinhost.com
 -  https://rasht-ic.ir
 -  https://gilanianasnaf.ir
