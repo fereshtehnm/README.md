@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on AiBrary Project : https://www.aibrary.dev/
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left bg-white"> 
+<p align="left"> 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
@@ -43,12 +43,12 @@
 
 ## Skills / Languages
 
-- `{{ Nextjs 13}}` good
+- `{{ Nextjs 15}}` good
 - `{{ Reactjs }}` good
 - `{{ Redux-toolkit }}` good
 - `JavaScript` great
+- `TypeScript` good
 - `TailwindCSS` great
-- `Bootstrap` good
 - `NextUI Lib` great
 - `MUI Lib` great
 - `<HTML5>` + `{CSS3}` great
@@ -61,6 +61,7 @@
 
 
 ## Projects
+-  https://www.aibrary.dev
 -  https://spadpost.ir
 -  https://bazaarmaj.com
 -  https://shahinhost.com
