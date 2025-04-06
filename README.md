@@ -62,6 +62,7 @@
 
 ## Projects
 -  https://www.aibrary.dev
+-  https://serana.ai
 -  https://spadpost.ir
 -  https://bazaarmaj.com
 -  https://shahinhost.com
@@ -72,3 +73,4 @@
 -  https://safiresimorgh.com
 -  https://mahyadokht.ir
 - HTML5 course by me: https://asnafbns.com/course/index.php?categoryid=37
+- Next.js course by me: https://sokanacademy.com/academy/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-next-js
