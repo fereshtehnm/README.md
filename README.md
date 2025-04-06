@@ -43,7 +43,7 @@
 
 ## Skills / Languages
 
-- `{{ Nextjs 15}}` good
+- `{{ Nextjs 15}}` great
 - `{{ Reactjs }}` good
 - `{{ Redux-toolkit }}` good
 - `JavaScript` great
