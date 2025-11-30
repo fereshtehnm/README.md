@@ -7,8 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=fereshtehnamazi&label=Profile%20views&color=0e75b6&style=flat" alt="fereshtehnamazi" />
 </p>
 
-- 🔭 I’m currently working on AiBrary & SeranaAi Projects: [AiBrary](https://www.aibrary.dev), [SeranaAI](https://serana.ai)
-
+- 🔭 I’m currently doing my master’s at the University of Rostock in Germany.
 ---
 
 ### 🛠️ Languages and Tools:
