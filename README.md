@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=fereshtehnamazi&label=Profile%20views&color=0e75b6&style=flat" alt="fereshtehnamazi" />
 </p>
 
-- 🔭 I’m currently doing my master’s at the University of Rostock in Germany.
+- 🔭 I’m currently doing my master’s in Computer Science at the University of Rostock in Germany.
 ---
 
 ### 🛠️ Languages and Tools:
